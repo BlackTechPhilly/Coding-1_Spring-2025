@@ -46,7 +46,7 @@
 
 # Boolean Data Type 
 # A data representation of true and false
-
+ 
 False
 0 # represents false
 
@@ -70,3 +70,5 @@ print(name)
 
 # the print function is for passing data out from your program
 print('hello from Python')
+
+
