@@ -1,4 +1,5 @@
 ## Python Conditional Logic Practice
+<b>Inside of the conditionalLogic.py document you created yesterday. Answer the following python conditional questions. </b>
 
 <i> Guided coding with instructor</i>
 1. You have been hired as an engineer to develop a discount function for 
