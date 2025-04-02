@@ -32,10 +32,46 @@ def schoolHours(hour, meridiem):
 # thats uses a conditional statement to solve the issue
 
 # 1. Ticket price for amusement park by age
+# 10 or younger 5 dollars
+# 13- 18 - 10 dollars
+# 19- 64 - 15 dollars
+# 65- 5 dollars
 
-# 2. School letter grade by score
+def ticketByAge(age):
+    if age <= 12 and age >= 0:
+        print("Your ticket price is $5.00. ")
+    elif age >= 13 and age <= 18:
+        print("Your ticket price is $10.00. ")
+    elif age >= 19 and age <= 64:
+        print("Your ticket price is 15.00. ")
+    elif age >= 65:
+        print("Your ticket price is 5.00. ")
+    else:
+        print("Cannot process ticket request.")    
 
-# 3. Email recovery function for missing email or password
+#ticketByAge(57)
+
+# 2. Email recovery function for missing email or password -
+# we need to ask the user, which do they need to recover?
+# we need to take in an email address- and send a reset link
+# we need a take in an email to send a password link
+
+def emailRecovery():
+    print('press 1 for email')
+    print('press 2 for password')
+    userRecover = input("What do you need recovered ?")
+    if userRecover == 1:
+        print('sending over email link. ') 
+    elif userRecover == 2:
+
+
+emailRecovery()
+
+
+
+
+
+# 3. School letter grade by score - Done
 
 def letterGradeByScore(score):
     if score >= 90 and score <= 100:
@@ -51,4 +87,4 @@ def letterGradeByScore(score):
     else:
         print('Cant process this grade. please check your code.')
 
-letterGradeByScore(78)
+#letterGradeByScore(78)
