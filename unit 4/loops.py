@@ -22,12 +22,11 @@ foodOrder = 1
 while foodOrder == 1:
     print('You will get the kosher option')
 
+
+# Class activity
 # Create a simple count-down timer using a while loop
 # you code should count down from 10 and stop at zero.
 # - HINT: you will need to use either assignment or arithmatic operators
 # to make the numbers count down. 
 
 
-
-
-# Create a simple multiplication table
