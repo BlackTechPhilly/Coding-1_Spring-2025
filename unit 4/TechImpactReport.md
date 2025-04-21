@@ -1,4 +1,4 @@
-# Future of Tech Report
+## Future of Tech Report
 
 ## Objective
 In a well-organized essay, Research, imagine, and critically think to forecast a technology that they believe will be important, transformative or lose value, 10 years from now. Your writing should include:
@@ -14,6 +14,7 @@ In a well-organized essay, Research, imagine, and critically think to forecast a
 5. Your personal opinion on whether the technology will have a positive or negative effect overall
 
 ## Requirements
+- Your report should include your name at the top of the page
 - Length: 1–2 pages 
 - Format: Clear introduction, body paragraphs, and conclusion
 - Use at least one source (can be an article, podcast, or video) to support your ideas
@@ -29,3 +30,7 @@ Your report will be evaluated across five key areas of writing, with each catego
 
 ## Due Date
 This assignment will be due at the end of class on 4/22/2025. No exceptions. If you missed a day do to illness, you will need to have a parent/ guardian verify your absense and illness to get an extension. 
+
+please submit your document as a .doc, .txt, or .pdf file using the following link below:
+
+https://forms.gle/ACCE3hdcUAN1ywNNA
