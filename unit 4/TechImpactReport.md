@@ -15,7 +15,7 @@ In a well-organized essay, Research, imagine, and critically think to forecast a
 
 ## Requirements
 - Your report should include your name at the top of the page
-- Length: 1–2 pages 
+- Length: 1–2 pages (5-6 paragraphs)
 - Format: Clear introduction, body paragraphs, and conclusion
 - Use at least one source (can be an article, podcast, or video) to support your ideas
 
