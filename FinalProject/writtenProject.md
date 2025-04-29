@@ -10,7 +10,7 @@ asking the following questions:
 1. What was the first social media platform you used?
 2. What do you think are the biggest benefits of social media?
 3. What worries or concerns do you have about social media?
-4. How do you think social media since you first used it and now?
+4. What do you think of social media now since you first used it and now?
 
 Be sure to take detailed notes during each interview (Who did you interview, quotes of what they said, etc). 
 
